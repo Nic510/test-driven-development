@@ -7,3 +7,7 @@ describe('#highestValue()', function() {
 });
 
 // Write the method that makes this test pass.
+var highestValue = function (array){
+	Math.max();
+	return array[array.length-1]
+};
